@@ -1,2 +1,2 @@
 # Projeto-Carrefuor
-Clone da NETFLIX
+Clone-Netflix
